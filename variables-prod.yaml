@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.prudhvi.online  # submit your host
+REDIS_HOST: redis-prod.prudhvi.online 
+MYSQL_HOST: mysql-prod.prudhvi.online 
+RABBITMQ_HOST: rabbitmq-prod.prudhvi.online 
+CATALOGUE_HOST: catalogue-prod.prudhvi.online 
+USER_HOST: user-prod.prudhvi.online 
+CART_HOST: cart-prod.prudhvi.online 
+SHIPPING_HOST: shipping-prod.prudhvi.online 
+PAYMENT_HOST: payment-prod.prudhvi.online 
+DISPATCH_HOST: dispatch-prod.prudhvi.online 
